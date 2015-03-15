@@ -1,0 +1,13 @@
+body{
+	font-family:sans-serif;
+}
+
+button{
+	width: 40vw;
+	height: 10vh;
+	font-size: 3em;
+}
+
+pre{
+	background-color:#ccc;
+}

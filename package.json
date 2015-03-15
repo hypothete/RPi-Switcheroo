@@ -1,0 +1,24 @@
+{
+  "name": "RpiSwitcheroo",
+  "version": "1.0.0",
+  "description": "Socket & servo controller",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.2",
+    "wiring-pi": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hypothete/RPi-Switcheroo"
+  },
+  "author": "@hypothete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypothete/RPi-Switcheroo/issues"
+  },
+  "homepage": "https://github.com/hypothete/RPi-Switcheroo"
+}
